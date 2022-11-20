@@ -22,7 +22,7 @@ public class Principal {
 		filmes.add(senhor3);
 		filmes.add(senhor4);
 		filmes.add(senhor5);
-		filmes.add(senhor6);
+		
 		
 		
 		Ator ator1 = new Ator("Gal Gadot");
